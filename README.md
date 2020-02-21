@@ -1,4 +1,4 @@
-# FRIDAY V1
+# F.R.I.D.A.Y
 
 #### A personal assistant written in python inspired by Iron man
 
