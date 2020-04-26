@@ -1,0 +1,13 @@
+pyttsx3
+datetime
+speech_recognition as sr
+wikipedia
+wolframalpha
+webbrowser
+ctypes
+psutil
+pyautogui
+os
+sys
+subprocess
+random
