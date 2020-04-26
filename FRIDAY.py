@@ -10,7 +10,7 @@ import pyautogui
 import os
 import sys
 import subprocess
-import rando
+import random
 
 chrome_path ='C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'
 engine = pyttsx3.init('sapi5')
