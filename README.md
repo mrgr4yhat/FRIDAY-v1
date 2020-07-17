@@ -23,4 +23,4 @@
 
 ### Installation 
 
- pip install -r requirements.tx
+ pip install -r requirements.txt
