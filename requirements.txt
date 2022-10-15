@@ -10,4 +10,4 @@ pyautogui
 os
 sys
 subprocess
-random
+rando
