@@ -7,8 +7,8 @@
  if the required modules are installed.
  
 #### Features
- - New Updated Engine (Now she can do complex mathematical operation)
- - Answering our Question (Smarter than before)
+ - New Updated Engine (Now she can do complex mathematical operations)
+ - Answering our Question made easy (Smarter than before)
  - Packed with some system commands
  - Send emails via voice over (need to add in the source code)
     1. Shutdown
